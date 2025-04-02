@@ -1,0 +1,6 @@
+# ninja log v6
+2	1137	1743608777062526661	CMakeFiles/BattleArena.dir/src/Videojuego.cpp.o	6202cb988f0da21c
+1	1187	1743608777061343416	CMakeFiles/BattleArena.dir/main.cpp.o	54520f9e0a547241
+2	1204	1743608777062731494	CMakeFiles/BattleArena.dir/src/Jugador.cpp.o	19dc659336c572
+2	1325	1743608777062304704	CMakeFiles/BattleArena.dir/src/Torneo.cpp.o	8700651a675aa7e2
+1326	1503	1743608778385985052	BattleArena	4337ca47fc8a2661
