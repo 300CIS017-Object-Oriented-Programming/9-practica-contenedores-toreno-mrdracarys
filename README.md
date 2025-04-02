@@ -123,9 +123,9 @@ Si no lo cumples o no estás seguro, deja el espacio en blanco.
 
 | | Pregunta |
 |---|----------|
-| [ ] | Comprendo el propósito de cada clase (`Videojuego`, `Jugador`, `Torneo`) dentro del sistema. |
-| [ ] | Sé identificar atributos y métodos relevantes de una clase a partir de un enunciado. |
-| [ ] | Entiendo el diagrama de clases entregado y puedo explicar las relaciones entre las clases. |
+| [x] | Comprendo el propósito de cada clase (`Videojuego`, `Jugador`, `Torneo`) dentro del sistema. |
+| [x] | Sé identificar atributos y métodos relevantes de una clase a partir de un enunciado. |
+| [x] | Entiendo el diagrama de clases entregado y puedo explicar las relaciones entre las clases. |
 | [ ] | Sé diferenciar entre una relación de asociación, composición y agregación. |
 | [ ] | Comprendo el concepto de compartir instancias mediante punteros para evitar duplicación de objetos. |
 
@@ -135,11 +135,11 @@ Si no lo cumples o no estás seguro, deja el espacio en blanco.
 
 | | Pregunta |
 |---|----------|
-| [ ] | Sé implementar clases correctamente en C++ utilizando atributos privados y métodos públicos. |
-| [ ] | Sé crear constructores adecuados y definir métodos para modificar o consultar atributos. |
-| [ ] | Comprendo el uso de punteros en las relaciones entre clases. |
-| [ ] | Soy capaz de navegar entre objetos relacionados usando punteros (ej.: acceder a los videojuegos inscritos desde un jugador). |
-| [ ] | Puedo codificar de manera fluida la interacción entre las clases utilizando menús y llamadas a métodos. |
+| [x] | Sé implementar clases correctamente en C++ utilizando atributos privados y métodos públicos. |
+| [x] | Sé crear constructores adecuados y definir métodos para modificar o consultar atributos. |
+| [x] | Comprendo el uso de punteros en las relaciones entre clases. |
+| [x] | Soy capaz de navegar entre objetos relacionados usando punteros (ej.: acceder a los videojuegos inscritos desde un jugador). |
+| [x] | Puedo codificar de manera fluida la interacción entre las clases utilizando menús y llamadas a métodos. |
 
 ---
 
@@ -147,11 +147,11 @@ Si no lo cumples o no estás seguro, deja el espacio en blanco.
 
 | | Pregunta |
 |---|----------|
-| [ ] | Sé declarar y utilizar correctamente `vector` y `map`. |
-| [ ] | Comprendo cómo recorrer un `vector` y un `map` para acceder y mostrar información. |
-| [ ] | Puedo insertar, buscar y eliminar elementos en `map` y `vector`. |
+| [x] | Sé declarar y utilizar correctamente `vector` y `map`. |
+| [x] | Comprendo cómo recorrer un `vector` y un `map` para acceder y mostrar información. |
+| [x] | Puedo insertar, buscar y eliminar elementos en `map` y `vector`. |
 | [ ] | Sé decidir cuándo usar un `map` y cuándo un `vector` dependiendo de la necesidad. |
-| [ ] | Comprendo cómo integrar punteros dentro de `vector` y `map` para manejar referencias a objetos. |
+| [x] | Comprendo cómo integrar punteros dentro de `vector` y `map` para manejar referencias a objetos. |
 
 ---
 
@@ -159,10 +159,10 @@ Si no lo cumples o no estás seguro, deja el espacio en blanco.
 
 | | Pregunta |
 |---|----------|
-| [ ] | Sé crear y configurar correctamente un proyecto en **CLion**. |
-| [ ] | Puedo crear los archivos `.h` y `.cpp` necesarios para las clases del sistema sin dificultad. |
+| [x] | Sé crear y configurar correctamente un proyecto en **CLion**. (Sufro bastante con la ejecucion pero si)|
+| [x] | Puedo crear los archivos `.h` y `.cpp` necesarios para las clases del sistema sin dificultad. |
 | [ ] | Me siento cómodo escribiendo código desde cero aplicando los principios de orientación a objetos. |
-| [ ] | Logro construir un menú de interacción funcional y bien estructurado. |
+| [x] | Logro construir un menú de interacción funcional y bien estructurado. |
 | [ ] | Soy capaz de realizar pruebas rápidas para verificar que las clases y métodos funcionan antes de terminar el programa completo. |
 
 ---
